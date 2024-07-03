@@ -12,4 +12,5 @@ class Utils:
         return X, y
     
     def model_export(self, clf, score):
-        pass
+        print(score)
+        joblib.dump(clf, f'/root/Platzi/Cur_M_L_SKlearn/models/model_{score}.pkl')
