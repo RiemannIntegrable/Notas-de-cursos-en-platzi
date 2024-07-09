@@ -1,0 +1,2 @@
+Hacer el sistema básico de un concesionario de autos donde se puedan hacer compras y ventas de autos, los usuarios pueden consultar
+que vehiculos están disponibles, su precio y va a poder comprar o vender uno
