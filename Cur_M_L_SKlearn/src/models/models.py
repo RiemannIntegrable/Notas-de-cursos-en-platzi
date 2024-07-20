@@ -44,4 +44,3 @@ class Models:
 
         utils = Utils()
         utils.model_export(best_model, best_score)
-
