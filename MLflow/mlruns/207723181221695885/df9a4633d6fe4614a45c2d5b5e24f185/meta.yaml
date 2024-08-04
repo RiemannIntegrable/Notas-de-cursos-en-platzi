@@ -1,0 +1,15 @@
+artifact_uri: file:///home/riemannintegrable/Platzi/MLflow/mlruns/207723181221695885/df9a4633d6fe4614a45c2d5b5e24f185/artifacts
+end_time: 1722369910409
+entry_point_name: ''
+experiment_id: '207723181221695885'
+lifecycle_stage: active
+run_id: df9a4633d6fe4614a45c2d5b5e24f185
+run_name: beautiful-chimp-489
+run_uuid: df9a4633d6fe4614a45c2d5b5e24f185
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722369908208
+status: 3
+tags: []
+user_id: riemannintegrable

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/riemannintegrable/Platzi/MLflow/mlruns/207723181221695885/bff589fb73334271a259f49b6b015ac1/artifacts
+end_time: 1722452371277
+entry_point_name: ''
+experiment_id: '207723181221695885'
+lifecycle_stage: active
+run_id: bff589fb73334271a259f49b6b015ac1
+run_name: fun-mouse-587
+run_uuid: bff589fb73334271a259f49b6b015ac1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722452369519
+status: 3
+tags: []
+user_id: riemannintegrable

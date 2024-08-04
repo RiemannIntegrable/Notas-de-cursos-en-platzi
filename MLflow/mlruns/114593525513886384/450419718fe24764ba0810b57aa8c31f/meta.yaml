@@ -1,0 +1,15 @@
+artifact_uri: file:///home/riemannintegrable/Platzi/MLflow/mlruns/114593525513886384/450419718fe24764ba0810b57aa8c31f/artifacts
+end_time: 1721836151485
+entry_point_name: ''
+experiment_id: '114593525513886384'
+lifecycle_stage: active
+run_id: 450419718fe24764ba0810b57aa8c31f
+run_name: magnificent-ray-916
+run_uuid: 450419718fe24764ba0810b57aa8c31f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721836147713
+status: 3
+tags: []
+user_id: riemannintegrable

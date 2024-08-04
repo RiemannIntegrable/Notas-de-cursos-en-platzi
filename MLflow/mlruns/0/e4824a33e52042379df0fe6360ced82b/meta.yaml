@@ -1,0 +1,15 @@
+artifact_uri: file:///home/riemannintegrable/Platzi/MLflow/mlruns/0/e4824a33e52042379df0fe6360ced82b/artifacts
+end_time: 1721837085005
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e4824a33e52042379df0fe6360ced82b
+run_name: smiling-trout-619
+run_uuid: e4824a33e52042379df0fe6360ced82b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721837083528
+status: 3
+tags: []
+user_id: riemannintegrable

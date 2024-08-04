@@ -1,0 +1,15 @@
+artifact_uri: file:///home/riemannintegrable/Platzi/MLflow/mlruns/0/6ffb4bbc3ed44aef8ae035c5e847ea92/artifacts
+end_time: 1721837424228
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6ffb4bbc3ed44aef8ae035c5e847ea92
+run_name: respected-squid-464
+run_uuid: 6ffb4bbc3ed44aef8ae035c5e847ea92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721837422751
+status: 3
+tags: []
+user_id: riemannintegrable

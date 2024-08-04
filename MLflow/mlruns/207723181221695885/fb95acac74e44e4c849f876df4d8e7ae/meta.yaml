@@ -1,0 +1,15 @@
+artifact_uri: file:///home/riemannintegrable/Platzi/MLflow/mlruns/207723181221695885/fb95acac74e44e4c849f876df4d8e7ae/artifacts
+end_time: 1721938818466
+entry_point_name: ''
+experiment_id: '207723181221695885'
+lifecycle_stage: active
+run_id: fb95acac74e44e4c849f876df4d8e7ae
+run_name: smiling-moth-463
+run_uuid: fb95acac74e44e4c849f876df4d8e7ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721938816741
+status: 3
+tags: []
+user_id: riemannintegrable

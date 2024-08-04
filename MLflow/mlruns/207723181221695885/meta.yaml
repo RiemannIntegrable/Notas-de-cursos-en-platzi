@@ -1,0 +1,6 @@
+artifact_location: file:///home/riemannintegrable/Platzi/MLflow/mlruns/207723181221695885
+creation_time: 1721938488258
+experiment_id: '207723181221695885'
+last_update_time: 1721938488258
+lifecycle_stage: active
+name: regresion_iris_prefect

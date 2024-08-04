@@ -1,0 +1,15 @@
+artifact_uri: file:///home/riemannintegrable/Platzi/MLflow/mlruns/0/3e29d2dbf0d443dfa59f7067391b5b78/artifacts
+end_time: 1721836980274
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3e29d2dbf0d443dfa59f7067391b5b78
+run_name: silent-owl-371
+run_uuid: 3e29d2dbf0d443dfa59f7067391b5b78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721836978809
+status: 3
+tags: []
+user_id: riemannintegrable

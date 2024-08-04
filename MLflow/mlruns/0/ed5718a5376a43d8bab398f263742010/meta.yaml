@@ -1,0 +1,15 @@
+artifact_uri: file:///home/riemannintegrable/Platzi/MLflow/mlruns/0/ed5718a5376a43d8bab398f263742010/artifacts
+end_time: 1721937954982
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ed5718a5376a43d8bab398f263742010
+run_name: lyrical-squid-351
+run_uuid: ed5718a5376a43d8bab398f263742010
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721937953045
+status: 3
+tags: []
+user_id: riemannintegrable

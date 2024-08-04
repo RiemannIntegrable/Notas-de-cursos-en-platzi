@@ -1,0 +1,15 @@
+artifact_uri: file:///home/riemannintegrable/Platzi/MLflow/mlruns/114593525513886384/df52869a1fd147c19ba8424b622f4c03/artifacts
+end_time: 1721836774110
+entry_point_name: ''
+experiment_id: '114593525513886384'
+lifecycle_stage: active
+run_id: df52869a1fd147c19ba8424b622f4c03
+run_name: mysterious-wolf-813
+run_uuid: df52869a1fd147c19ba8424b622f4c03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721836772195
+status: 3
+tags: []
+user_id: riemannintegrable

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/riemannintegrable/Platzi/MLflow/mlruns/114593525513886384/dce2d9be2e5640b687013f9662504b0f/artifacts
+end_time: 1721836390350
+entry_point_name: ''
+experiment_id: '114593525513886384'
+lifecycle_stage: active
+run_id: dce2d9be2e5640b687013f9662504b0f
+run_name: powerful-snipe-481
+run_uuid: dce2d9be2e5640b687013f9662504b0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721836208036
+status: 4
+tags: []
+user_id: riemannintegrable

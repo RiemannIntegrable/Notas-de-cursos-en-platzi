@@ -1,0 +1,15 @@
+artifact_uri: file:///home/riemannintegrable/Platzi/MLflow/mlruns/207723181221695885/f86182a1f3b14fd9a898b366bee8a569/artifacts
+end_time: 1721938490360
+entry_point_name: ''
+experiment_id: '207723181221695885'
+lifecycle_stage: active
+run_id: f86182a1f3b14fd9a898b366bee8a569
+run_name: rare-ant-52
+run_uuid: f86182a1f3b14fd9a898b366bee8a569
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721938488402
+status: 3
+tags: []
+user_id: riemannintegrable

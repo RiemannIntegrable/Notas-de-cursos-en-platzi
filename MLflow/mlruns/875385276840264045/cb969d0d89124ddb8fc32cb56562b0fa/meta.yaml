@@ -1,0 +1,15 @@
+artifact_uri: file:///home/riemannintegrable/Platzi/MLflow/mlruns/875385276840264045/cb969d0d89124ddb8fc32cb56562b0fa/artifacts
+end_time: 1721847742613
+entry_point_name: ''
+experiment_id: '875385276840264045'
+lifecycle_stage: active
+run_id: cb969d0d89124ddb8fc32cb56562b0fa
+run_name: example_1
+run_uuid: cb969d0d89124ddb8fc32cb56562b0fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721847741325
+status: 3
+tags: []
+user_id: riemannintegrable

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/riemannintegrable/Platzi/MLflow/mlruns/114593525513886384/0b2c88049f78464a8c4c7d81aec00996/artifacts
+end_time: 1721835556211
+entry_point_name: ''
+experiment_id: '114593525513886384'
+lifecycle_stage: active
+run_id: 0b2c88049f78464a8c4c7d81aec00996
+run_name: rare-shad-20
+run_uuid: 0b2c88049f78464a8c4c7d81aec00996
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721835554664
+status: 3
+tags: []
+user_id: riemannintegrable

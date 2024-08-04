@@ -1,0 +1,15 @@
+artifact_uri: file:///home/riemannintegrable/Platzi/MLflow/mlruns/0/8563531414b448d1a3ee32b0cdca3a99/artifacts
+end_time: 1721836901281
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8563531414b448d1a3ee32b0cdca3a99
+run_name: redolent-shoat-90
+run_uuid: 8563531414b448d1a3ee32b0cdca3a99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721836898573
+status: 3
+tags: []
+user_id: riemannintegrable

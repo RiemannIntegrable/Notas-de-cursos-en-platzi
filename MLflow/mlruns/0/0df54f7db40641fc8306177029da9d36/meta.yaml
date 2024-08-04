@@ -1,0 +1,15 @@
+artifact_uri: file:///home/riemannintegrable/Platzi/MLflow/mlruns/0/0df54f7db40641fc8306177029da9d36/artifacts
+end_time: 1721837028060
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0df54f7db40641fc8306177029da9d36
+run_name: agreeable-bee-185
+run_uuid: 0df54f7db40641fc8306177029da9d36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721837026537
+status: 3
+tags: []
+user_id: riemannintegrable

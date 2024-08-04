@@ -1,0 +1,15 @@
+artifact_uri: file:///home/riemannintegrable/Platzi/MLflow/mlruns/207723181221695885/cf499eda16004d32a7fadbc4657dcbde/artifacts
+end_time: 1722452530943
+entry_point_name: ''
+experiment_id: '207723181221695885'
+lifecycle_stage: active
+run_id: cf499eda16004d32a7fadbc4657dcbde
+run_name: adaptable-carp-957
+run_uuid: cf499eda16004d32a7fadbc4657dcbde
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722452529170
+status: 3
+tags: []
+user_id: riemannintegrable

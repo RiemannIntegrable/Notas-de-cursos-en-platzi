@@ -1,0 +1,15 @@
+artifact_uri: file:///home/riemannintegrable/Platzi/MLflow/mlruns/114593525513886384/e3ab5e059fa04d81b059117969c25c16/artifacts
+end_time: 1721836828989
+entry_point_name: ''
+experiment_id: '114593525513886384'
+lifecycle_stage: active
+run_id: e3ab5e059fa04d81b059117969c25c16
+run_name: tasteful-shrimp-260
+run_uuid: e3ab5e059fa04d81b059117969c25c16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721836827335
+status: 3
+tags: []
+user_id: riemannintegrable
